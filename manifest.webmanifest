@@ -1,0 +1,28 @@
+{
+  "name": "Coach Thyroïde — Frédéric NIDDAM",
+  "short_name": "Coach Thyroïde",
+  "description": "Coaching thyroïde personnalisé : Hashimoto, hypothyroïdie, fatigue chronique. Frédéric NIDDAM.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/Thyroid-CoachFredericNIDDAMbis/",
+  "scope": "/Thyroid-CoachFredericNIDDAMbis/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0EA5E9",
+  "categories": ["health", "lifestyle", "medical"],
+  "icons": [
+    {
+      "src": "/Thyroid-CoachFredericNIDDAMbis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Thyroid-CoachFredericNIDDAMbis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
