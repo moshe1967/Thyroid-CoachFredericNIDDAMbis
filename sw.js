@@ -1,5 +1,5 @@
 // Coach Thyroïde — service worker (offline shell)
-const CACHE = 'coach-thyroide-v1';
+const CACHE = 'coach-thyroide-v2';
 const BASE = '/Thyroid-CoachFredericNIDDAMbis/';
 const ASSETS = [
   BASE,
